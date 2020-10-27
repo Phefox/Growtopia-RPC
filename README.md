@@ -12,3 +12,10 @@ Make sure Discord is running, in case you get any error restart Discord. If rest
 
 # Final Result
 ![Presence](https://cdn.discordapp.com/attachments/742864119253696572/770606845223632906/unknown.png)
+
+# Few Things to keep in your mind
+The reason it's an executable file because it requires a few module files and NodeJs which a non-programmer person wouldn't bother to download and install, so I bundled it into one file - click to run.
+
+Also for the data shown at presence (GrowID & World Name), both of them are written inside of the save.dat file located where Growtopia installed. World Names and GrowID are automatically updated, like when you switch world presence also gets updated. Please be in knowledge of that.
+
+Enjoy it!
