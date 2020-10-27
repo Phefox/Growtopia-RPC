@@ -8,7 +8,7 @@ Growtopia Presence for Discord.
 - Open the file inside of zip.
 - Run Growtopia-RPC.exe
 
-Make sure Discord is running, in case you get any error restart Discord.
+Make sure Discord is running, in case you get any error restart Discord. If restarting doesn't work feel free to post the issue at https://github.com/Phefox/Growtopia-RPC/issues and I'll be happy to look into it.
 
 # Final Result
 ![Presence](https://cdn.discordapp.com/attachments/742864119253696572/770606845223632906/unknown.png)
