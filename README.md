@@ -4,8 +4,9 @@
 Growtopia Presence for Discord.
 
 # Instructions
-Open the file inside of zip.
-Run Growtopia-RPC.exe
+- Download the zip - https://github.com/Phefox/Growtopia-RPC/blob/main/RPC.zip
+- Open the file inside of zip.
+- Run Growtopia-RPC.exe
 
 Make sure Discord is running, in case you get any error restart Discord.
 
